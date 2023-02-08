@@ -1,0 +1,5 @@
+print("welcome to payment page")
+print("enter required amount")
+print("sorry insufficient funds")
+print("try after some time")
+print("thank you for using service")
